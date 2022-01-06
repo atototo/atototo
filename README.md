@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I am nice to work with**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
